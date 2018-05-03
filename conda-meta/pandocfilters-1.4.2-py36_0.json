@@ -1,0 +1,35 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64",
+  "date": "2017-08-24",
+  "depends": [
+    "python 3.6*"
+  ],
+  "files": [
+    "Lib/site-packages/__pycache__/pandocfilters.cpython-36.pyc",
+    "Lib/site-packages/pandocfilters-1.4.2-py3.6.egg-info",
+    "Lib/site-packages/pandocfilters.py"
+  ],
+  "fn": "pandocfilters-1.4.2-py36_0.tar.bz2",
+  "license": "BSD License",
+  "license_family": "BSD",
+  "link": {
+    "source": "D:\\Anaconda3\\pkgs\\pandocfilters-1.4.2-py36_0",
+    "type": 1
+  },
+  "md5": "30ddc29c7c83129d7cc803e2285eae98",
+  "name": "pandocfilters",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free",
+  "size": 12871,
+  "subdir": "win-64",
+  "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64/pandocfilters-1.4.2-py36_0.tar.bz2",
+  "version": "1.4.2",
+  "with_features_depends": {}
+}

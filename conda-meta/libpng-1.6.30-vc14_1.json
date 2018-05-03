@@ -1,0 +1,51 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "vc14_1",
+  "build_number": 1,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64",
+  "date": "2017-08-25",
+  "depends": [
+    "zlib 1.2.*"
+  ],
+  "features": "vc14",
+  "files": [
+    "Library/bin/libpng16.dll",
+    "Library/bin/png-fix-itxt.exe",
+    "Library/bin/pngfix.exe",
+    "Library/include/libpng16/png.h",
+    "Library/include/libpng16/pngconf.h",
+    "Library/include/libpng16/pnglibconf.h",
+    "Library/include/png.h",
+    "Library/include/pngconf.h",
+    "Library/include/pnglibconf.h",
+    "Library/lib/libpng.lib",
+    "Library/lib/libpng/libpng16-release.cmake",
+    "Library/lib/libpng/libpng16.cmake",
+    "Library/lib/libpng16.lib",
+    "Library/lib/libpng16_static.lib",
+    "Library/lib/libpng_static.lib",
+    "Library/share/man/man3/libpng.3",
+    "Library/share/man/man3/libpngpf.3",
+    "Library/share/man/man5/png.5"
+  ],
+  "fn": "libpng-1.6.30-vc14_1.tar.bz2",
+  "license": "libpng license",
+  "license_family": "Other",
+  "link": {
+    "source": "D:\\Anaconda3\\pkgs\\libpng-1.6.30-vc14_1",
+    "type": 1
+  },
+  "md5": "0e77db7e2c18eeb9a876b89b007ae45a",
+  "name": "libpng",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free",
+  "size": 515315,
+  "subdir": "win-64",
+  "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64/libpng-1.6.30-vc14_1.tar.bz2",
+  "version": "1.6.30",
+  "with_features_depends": {}
+}

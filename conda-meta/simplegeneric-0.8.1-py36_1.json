@@ -1,0 +1,35 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_1",
+  "build_number": 1,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64",
+  "date": "2016-12-23",
+  "depends": [
+    "python 3.6*"
+  ],
+  "files": [
+    "Lib/site-packages/__pycache__/simplegeneric.cpython-36.pyc",
+    "Lib/site-packages/simplegeneric-0.8.1-py3.6.egg-info",
+    "Lib/site-packages/simplegeneric.py"
+  ],
+  "fn": "simplegeneric-0.8.1-py36_1.tar.bz2",
+  "license": "ZPL 2.1",
+  "license_family": "Other",
+  "link": {
+    "source": "D:\\Anaconda3\\pkgs\\simplegeneric-0.8.1-py36_1",
+    "type": 1
+  },
+  "md5": "aef46a4fff1e06d765cda34066215174",
+  "name": "simplegeneric",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free",
+  "size": 8426,
+  "subdir": "win-64",
+  "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64/simplegeneric-0.8.1-py36_1.tar.bz2",
+  "version": "0.8.1",
+  "with_features_depends": {}
+}

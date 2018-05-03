@@ -1,0 +1,48 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64",
+  "date": "2016-12-23",
+  "depends": [
+    "python 3.6*"
+  ],
+  "files": [
+    "Lib/site-packages/wcwidth-0.1.7-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/wcwidth-0.1.7-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/wcwidth-0.1.7-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/wcwidth-0.1.7-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/wcwidth-0.1.7-py3.6.egg-info/zip-safe",
+    "Lib/site-packages/wcwidth/__init__.py",
+    "Lib/site-packages/wcwidth/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/wcwidth/__pycache__/table_wide.cpython-36.pyc",
+    "Lib/site-packages/wcwidth/__pycache__/table_zero.cpython-36.pyc",
+    "Lib/site-packages/wcwidth/__pycache__/wcwidth.cpython-36.pyc",
+    "Lib/site-packages/wcwidth/table_wide.py",
+    "Lib/site-packages/wcwidth/table_zero.py",
+    "Lib/site-packages/wcwidth/tests/__init__.py",
+    "Lib/site-packages/wcwidth/tests/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/wcwidth/tests/__pycache__/test_core.cpython-36.pyc",
+    "Lib/site-packages/wcwidth/tests/test_core.py",
+    "Lib/site-packages/wcwidth/wcwidth.py"
+  ],
+  "fn": "wcwidth-0.1.7-py36_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "D:\\Anaconda3\\pkgs\\wcwidth-0.1.7-py36_0",
+    "type": 1
+  },
+  "md5": "3b65e78870ea0f364de224ba3686a4f8",
+  "name": "wcwidth",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free",
+  "size": 24922,
+  "subdir": "win-64",
+  "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64/wcwidth-0.1.7-py36_0.tar.bz2",
+  "version": "0.1.7",
+  "with_features_depends": {}
+}

@@ -1,0 +1,39 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64",
+  "date": "2017-01-17",
+  "depends": [
+    "python 3.6*"
+  ],
+  "files": [
+    "Lib/site-packages/__pycache__/sipconfig.cpython-36.pyc",
+    "Lib/site-packages/__pycache__/sipdistutils.cpython-36.pyc",
+    "Lib/site-packages/sip.pyd",
+    "Lib/site-packages/sip.pyi",
+    "Lib/site-packages/sipconfig.py",
+    "Lib/site-packages/sipdistutils.py",
+    "Library/bin/sip.exe",
+    "include/sip.h"
+  ],
+  "fn": "sip-4.18-py36_0.tar.bz2",
+  "license": "GPL3",
+  "link": {
+    "source": "D:\\Anaconda3\\pkgs\\sip-4.18-py36_0",
+    "type": 1
+  },
+  "md5": "746078f6898babae47654768adad7fd2",
+  "name": "sip",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free",
+  "size": 276317,
+  "subdir": "win-64",
+  "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64/sip-4.18-py36_0.tar.bz2",
+  "version": "4.18",
+  "with_features_depends": {}
+}

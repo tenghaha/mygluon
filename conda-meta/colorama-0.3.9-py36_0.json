@@ -1,0 +1,44 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64",
+  "date": "2017-05-16",
+  "depends": [
+    "python 3.6*"
+  ],
+  "files": [
+    "Lib/site-packages/colorama-0.3.9-py3.6.egg-info",
+    "Lib/site-packages/colorama/__init__.py",
+    "Lib/site-packages/colorama/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/colorama/__pycache__/ansi.cpython-36.pyc",
+    "Lib/site-packages/colorama/__pycache__/ansitowin32.cpython-36.pyc",
+    "Lib/site-packages/colorama/__pycache__/initialise.cpython-36.pyc",
+    "Lib/site-packages/colorama/__pycache__/win32.cpython-36.pyc",
+    "Lib/site-packages/colorama/__pycache__/winterm.cpython-36.pyc",
+    "Lib/site-packages/colorama/ansi.py",
+    "Lib/site-packages/colorama/ansitowin32.py",
+    "Lib/site-packages/colorama/initialise.py",
+    "Lib/site-packages/colorama/win32.py",
+    "Lib/site-packages/colorama/winterm.py"
+  ],
+  "fn": "colorama-0.3.9-py36_0.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "D:\\Anaconda3\\pkgs\\colorama-0.3.9-py36_0",
+    "type": 1
+  },
+  "md5": "a56b065f28c919b6eef94ae7e5a650bc",
+  "name": "colorama",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free",
+  "size": 22763,
+  "subdir": "win-64",
+  "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64/colorama-0.3.9-py36_0.tar.bz2",
+  "version": "0.3.9",
+  "with_features_depends": {}
+}

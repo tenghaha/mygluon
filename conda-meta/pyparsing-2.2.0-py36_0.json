@@ -1,0 +1,37 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64",
+  "date": "2017-08-01",
+  "depends": [
+    "python 3.6*"
+  ],
+  "files": [
+    "Lib/site-packages/__pycache__/pyparsing.cpython-36.pyc",
+    "Lib/site-packages/pyparsing-2.2.0-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/pyparsing-2.2.0-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/pyparsing-2.2.0-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/pyparsing-2.2.0-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/pyparsing.py"
+  ],
+  "fn": "pyparsing-2.2.0-py36_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "D:\\Anaconda3\\pkgs\\pyparsing-2.2.0-py36_0",
+    "type": 1
+  },
+  "md5": "6ff862f2fa14efce03ab20cc04232dc8",
+  "name": "pyparsing",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free",
+  "size": 99265,
+  "subdir": "win-64",
+  "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64/pyparsing-2.2.0-py36_0.tar.bz2",
+  "version": "2.2.0",
+  "with_features_depends": {}
+}

@@ -1,0 +1,38 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_3",
+  "build_number": 3,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64",
+  "date": "2016-12-25",
+  "depends": [
+    "ipykernel",
+    "ipywidgets",
+    "jupyter_console",
+    "nbconvert",
+    "notebook",
+    "python 3.6*",
+    "qtconsole"
+  ],
+  "files": [
+    "Lib/site-packages/jupyter-1.0.0-py3.6.egg-info"
+  ],
+  "fn": "jupyter-1.0.0-py36_3.tar.bz2",
+  "license": "BSD",
+  "link": {
+    "source": "D:\\Anaconda3\\pkgs\\jupyter-1.0.0-py36_3",
+    "type": 1
+  },
+  "md5": "3f825d3fd59f7e937a6b035e106faf52",
+  "name": "jupyter",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free",
+  "size": 4233,
+  "subdir": "win-64",
+  "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64/jupyter-1.0.0-py36_3.tar.bz2",
+  "version": "1.0.0",
+  "with_features_depends": {}
+}

@@ -1,0 +1,40 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "vc14_0",
+  "build_number": 0,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64",
+  "date": "2017-08-18",
+  "depends": [],
+  "features": "vc14",
+  "files": [
+    "Library/bin/zlib.dll",
+    "Library/include/zconf.h",
+    "Library/include/zlib.h",
+    "Library/lib/z.lib",
+    "Library/lib/zdll.lib",
+    "Library/lib/zlib.lib",
+    "Library/lib/zlibstatic.lib",
+    "Library/share/man/man3/zlib.3",
+    "Library/share/pkgconfig/zlib.pc"
+  ],
+  "fn": "zlib-1.2.11-vc14_0.tar.bz2",
+  "license": "zlib",
+  "license_family": "Other",
+  "link": {
+    "source": "D:\\Anaconda3\\pkgs\\zlib-1.2.11-vc14_0",
+    "type": 1
+  },
+  "md5": "0acb0e3c278551c3280b3e5aaab8a5ad",
+  "name": "zlib",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free",
+  "size": 122209,
+  "subdir": "win-64",
+  "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64/zlib-1.2.11-vc14_0.tar.bz2",
+  "version": "1.2.11",
+  "with_features_depends": {}
+}

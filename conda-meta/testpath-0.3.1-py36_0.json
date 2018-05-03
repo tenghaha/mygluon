@@ -1,0 +1,43 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64",
+  "date": "2017-06-01",
+  "depends": [
+    "python 3.6*"
+  ],
+  "files": [
+    "Lib/site-packages/testpath-0.3-py3.6.egg-info",
+    "Lib/site-packages/testpath/__init__.py",
+    "Lib/site-packages/testpath/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/testpath/__pycache__/asserts.cpython-36.pyc",
+    "Lib/site-packages/testpath/__pycache__/commands.cpython-36.pyc",
+    "Lib/site-packages/testpath/__pycache__/env.cpython-36.pyc",
+    "Lib/site-packages/testpath/__pycache__/tempdir.cpython-36.pyc",
+    "Lib/site-packages/testpath/asserts.py",
+    "Lib/site-packages/testpath/commands.py",
+    "Lib/site-packages/testpath/env.py",
+    "Lib/site-packages/testpath/tempdir.py"
+  ],
+  "fn": "testpath-0.3.1-py36_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "D:\\Anaconda3\\pkgs\\testpath-0.3.1-py36_0",
+    "type": 1
+  },
+  "md5": "4c3e0dd1375bfabe985df0bbf1385b6c",
+  "name": "testpath",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free",
+  "size": 15653,
+  "subdir": "win-64",
+  "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/win-64/testpath-0.3.1-py36_0.tar.bz2",
+  "version": "0.3.1",
+  "with_features_depends": {}
+}
